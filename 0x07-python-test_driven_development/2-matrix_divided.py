@@ -4,7 +4,7 @@ This module defines a matrix division function
 """
 
 
-def matrix_division(matrix, div):
+def matrix_divided(matrix, div):
     """Thsi function divides all elements of amatrix by a given number
     Args:
         matrix: A list of lists (matrix) can be of type ints or float
