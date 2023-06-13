@@ -1,4 +1,6 @@
-# alx-higher_level_programming
+<p align="center">
+<img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Picture.png">
+</p>
 
 # Solutions to Python related tasks.
 ___
@@ -10,4 +12,4 @@ Hence, this repo will contain all the solutions I submit for our daily tasks.
 
 ## Author
 ---
-© **VICTOR STEPHEN**
+© **victorstephen26**
