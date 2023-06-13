@@ -1,4 +1,6 @@
-# alx-higher_level_programming
+<p align="center">
+<img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Picture.png">
+</p>
 
 # Solutions to Python related tasks.
 ___
